@@ -10,7 +10,7 @@ The DJI H20T creates thermal images (infrared) in a format, which is not compati
 
 ![ortho](https://github.com/tejakattenborn/dji_h20t_rpeg_to_tif/blob/main/ortho.png)
 
-*Example of an orthophoto generated from the *.tif files created with this procedure.*
+*Example of an orthophoto generated from the .tif files created with this procedure.*
 
 Please contact me if you find any bugs or have problems getting the script running:
 https://rsc4earth.de/authors/tkattenborn/     https://twitter.com/TejaKattenborn

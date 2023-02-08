@@ -12,5 +12,7 @@ The DJI H20T creates thermal images (infrared) in a format, which is not compati
 
 *Example of an orthophoto generated from the .tif files created with this procedure.*
 
+Important: Do not worry if the default image viewer on your OS will show 'white' output *.tifs. The standard image viewers are not designed to resolve images with float data format [0-1]. Just proceed with the output with your photogrammetry software (e.g. Agisoft). You may want to inspect individual pixel values in a GIS or advanced image viewer software (Irfan view, ImageJ).
+
 Please contact me if you find any bugs or have problems getting the script running:
 https://rsc4earth.de/authors/tkattenborn/     https://twitter.com/TejaKattenborn

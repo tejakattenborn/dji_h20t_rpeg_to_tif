@@ -11,6 +11,8 @@ require(raster)
 require(ijtiff)
 require(exifr)
 
+# IMPORTANT: Make sure that you installed Perl on your system. Details see here under 'Installation': https://cran.r-project.org/web/packages/exifr/readme/README.html
+
 
 ### dir where DJI Thermal SDK is located (select appropriate release according to your OS).
 sdk_dir = "JUST AN EXAMPLE/dji_thermal_sdk_v1.2_20211209/utility/bin/windows/release_x64/"

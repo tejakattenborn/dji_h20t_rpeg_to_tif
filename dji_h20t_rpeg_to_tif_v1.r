@@ -68,7 +68,7 @@ for(i in 1:length(in_files)){
     exiftool_call(paste0("-GPSAltitude=", in_exif$GPSAltitude[1]), out_name_tif)
     exiftool_call(paste0("-GPSLatitude=", in_exif$GPSLatitude[1]), out_name_tif)
     exiftool_call(paste0("-GPSLongitude=", in_exif$GPSLongitude[1]), out_name_tif)
-    exiftool_call(paste0("GPSLatitudeRef=", in_exif$GPSLatitudeRef[1]), out_name_tif)
+    exiftool_call(paste0("-GPSLatitudeRef=", in_exif$GPSLatitudeRef[1]), out_name_tif)
     
   }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
 }

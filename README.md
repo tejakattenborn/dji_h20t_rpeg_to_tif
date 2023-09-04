@@ -18,3 +18,5 @@ For Metashape-Users: You may want to adjust the brightness and contrast settings
 
 Please contact me if you find any bugs or have problems getting the script running:
 https://rsc4earth.de/authors/tkattenborn/     https://twitter.com/TejaKattenborn
+
+If you want, you can cite the repo using the provided citation file (see above).

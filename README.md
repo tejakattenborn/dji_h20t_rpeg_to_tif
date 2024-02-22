@@ -17,6 +17,6 @@ Important: Do not worry if the default image viewer on your OS will show 'white'
 For Metashape-Users: You may want to adjust the brightness and contrast settings in Metashape for visualizing the individual images. For most datasets setting the brightness to 1 percent and contrast to 200 percent works fine.
 
 Please contact me if you find any bugs or have problems getting the script running:
-https://rsc4earth.de/authors/tkattenborn/     https://twitter.com/TejaKattenborn
+https://geosense.uni-freiburg.de     https://twitter.com/TejaKattenborn
 
 If you want, you can cite the repo using the provided citation file (see above).
